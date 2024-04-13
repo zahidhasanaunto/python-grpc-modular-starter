@@ -1,0 +1,6 @@
+pydantic
+typing
+python-dotenv
+pydantic-settings
+grpcio-tools
+grpcio
